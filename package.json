@@ -10,7 +10,7 @@
     "dependencies": {
         "should": ">=0.2.1", 
         "underscore": ">=1.1.4", 
-        "glob": ">=1.1.0", 
+        "glob": ">=3",
         "vows": ">=0.5.8",
         "kyuri": "*"
     },
